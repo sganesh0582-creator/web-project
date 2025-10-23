@@ -1,10 +1,10 @@
-# 📝 Blog Site with Comment Section (Single Page Application)
+ Blog Site with Comment Section (Single Page Application)
 
 This project is a **Single Page Application (SPA)** that allows users to **add blogs**, **view them**, and **post comments** — all on a single dynamic web page without reloading.
 
 ---
 
-## 👩‍💻 Project Details
+ Project Details
 
 - **Student Name:** M. Ramkumar  
 - **Roll No:** 951223104078  
@@ -16,7 +16,7 @@ This project is a **Single Page Application (SPA)** that allows users to **add b
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 **Blog Site with Comment Section** is a simple and user-friendly single-page website designed to let users share their thoughts through blogs.  
 It provides a platform where:
@@ -28,16 +28,16 @@ Data is managed on the client side using **localStorage**, making it lightweight
 
 ---
 
-## 🌟 Key Features
-- ✍️ Add new blogs instantly  
-- 💬 Add and view comments under each blog post  
-- 🧠 Data stored locally using `localStorage`  
-- 🎨 Responsive and minimal UI built with **Tailwind CSS**  
-- ⚡ SPA structure using **JavaScript DOM manipulation**
+##  Key Features
+-  Add new blogs instantly  
+-  Add and view comments under each blog post  
+-  Data stored locally using `localStorage`  
+- Responsive and minimal UI built with **Tailwind CSS**  
+-  SPA structure using **JavaScript DOM manipulation**
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5** – Structure of the site  
 - **Tailwind CSS** – Styling and responsive design  
 - **JavaScript (Vanilla JS)** – Dynamic interactions and logic  
