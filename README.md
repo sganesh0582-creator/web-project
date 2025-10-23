@@ -45,7 +45,7 @@ Data is managed on the client side using **localStorage**, making it lightweight
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1. Clone or download the project folder:
    ```bash
