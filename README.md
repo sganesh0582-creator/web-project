@@ -1,6 +1,6 @@
-# Blog Site with Comment Section (Single Page Application)
+# Blog Site with Comment Section
 
-This project is a **Single Page Application (SPA)** where users can add blogs, view them, and write comments.
+This project is a **Blog Site** where users can add blogs, view them, and write comments.
 
 ---
 
@@ -12,7 +12,7 @@ This project is a **Single Page Application (SPA)** where users can add blogs, v
 - **Roll No:** 951223104078  
 - **Department:** CSE-B  
 - **College:** JP Engineering College  
-- **Mobile No:** <Your 7200826338r>  
+- **Mobile No:** <7200826338>  
 - **Date:** 22-10-2025  
 - **Phase:** 5 – Project Demonstration & Documentation
 
